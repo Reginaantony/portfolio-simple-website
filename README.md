@@ -26,7 +26,7 @@ This website serves as a platform to introduce myself and display my professiona
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Open the `portfolio.html' file in your web browser to view the home page.
+2. Open the `portfolio.html` file in your web browser to view the home page.
 3. Navigate to the `contact.html` file to access the contact page and find my contact information.
 
 Feel free to fork this repository and customize the content to create your own portfolio website!
