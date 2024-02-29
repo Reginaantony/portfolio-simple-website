@@ -1,0 +1,76 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    font-family: "Allerta Stencil", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+      }
+ .container {
+    padding:60px;
+ }  
+ .section-one{
+    background-color: chartreuse;
+    color:black;
+    padding: 30px;
+ }  
+ .section-one__contact{
+    background-color:crimson;
+    color:black;
+    text-decoration:none ;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin: 10px;
+    
+ }
+ .section-one__name{
+    font-size: 70px;
+ }
+ .section-one__role{
+    font-size: 30px;
+    margin-top: 10px;
+ }
+ .contact-form{
+    margin: 20px;
+ }
+ .contact-form__input,.contact-form__textarea,.contact-form__submit{
+    margin:10px
+ }
+ .contact-form__input{
+    padding:10px;
+    border:none;
+    border-bottom:solid black 1px;
+ }
+ .contact-form__textarea{
+    padding: 10px;
+    border: none;
+    border-bottom:solid black 1px;
+}
+.contact-form__submit{
+    background-color: crimson;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+}
+.section-two{
+    background-color: chartreuse;
+    color: black;
+    padding:20px
+}
+.section-two__dec{
+    margin:2px;
+    padding:5px;
+}
+.section-two__title{
+    margin:2px;
+    padding:5px;
+}
+
+
