@@ -31,14 +31,5 @@ This website serves as a platform to introduce myself and display my professiona
 
 Feel free to fork this repository and customize the content to create your own portfolio website!
 
-## Feedback
-
-I'm open to any feedback and suggestions for improving my portfolio website. If you have any ideas or recommendations, please don't hesitate to [reach out](mailto:your_email@example.com).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Adjust the instructions and details according to your website structure and preferences. Replace `your_email@example.com` with your actual contact email.
